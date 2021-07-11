@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "myapp",
+      "type": "com.kkhindigyan.app.model.KKHindiGyan",
+      "sourceType": "com.kkhindigyan.app.model.KKHindiGyan"
+    }
+  ],
+  "properties": [
+    {
+      "name": "myapp.channel-id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.kkhindigyan.app.model.KKHindiGyan"
+    },
+    {
+      "name": "myapp.channel-name",
+      "type": "java.lang.String",
+      "sourceType": "com.kkhindigyan.app.model.KKHindiGyan"
+    },
+    {
+      "name": "myapp.tech-fee",
+      "type": "java.util.Map<java.lang.String,java.lang.Integer>",
+      "sourceType": "com.kkhindigyan.app.model.KKHindiGyan"
+    },
+    {
+      "name": "myapp.technology",
+      "type": "com.kkhindigyan.app.model.Technology",
+      "sourceType": "com.kkhindigyan.app.model.KKHindiGyan"
+    },
+    {
+      "name": "myapp.topics",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.kkhindigyan.app.model.KKHindiGyan"
+    },
+    {
+      "name": "myapp.website-url",
+      "type": "java.lang.String",
+      "sourceType": "com.kkhindigyan.app.model.KKHindiGyan"
+    }
+  ],
+  "hints": []
+}
